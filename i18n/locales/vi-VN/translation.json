@@ -1,0 +1,44 @@
+{
+  "language": "Ngôn ngữ",
+  "home": {
+    "title": "Trang chủ",
+    "welcome": "Xin chào",
+    "FreeProgramText": "Chương trình miễn phí",
+    "Global_Eye_Level_Program": "Chương trình Global Eye Level",
+    "International_English_and_critical_Math_program": "Chương trình tiếng Anh quốc tế và Toán tư duy",
+    "Kindergarten": "Mẫu giáo",
+    "Elementary": "Tiểu học",
+    "Upper_Elementary": "Tiểu học nâng cao",
+    "Tudy_Education_Program": "Chương trình giáo dục Tudy",
+    "Free_talk_English_for_preschoolers_and_up": "Luyện nói tiếng Anh cho trẻ mẫu giáo trở lên",
+    "Primary_school_homework_assistance": "Hỗ trợ làm bài tập về nhà cho học sinh tiểu học",
+    "Free_talk": "Luyện nói"
+  },
+  "program": {
+    "global_eye_level_title": "Chương trình Global Eye Level",
+    "global_eye_level_subtitle": "Chương trình tiếng Anh quốc tế và Toán tư duy",
+    "tudy_education_title": "Chương trình giáo dục Tudy",
+    "tudy_education_subtitle": "Luyện nói tiếng Anh cho trẻ mẫu giáo trở lên",
+    "homework_assistance_title": "Chương trình giáo dục Tudy",
+    "homework_assistance_subtitle": "Hỗ trợ làm bài tập về nhà cho học sinh tiểu học",
+    "homework_assistance_description": "Từ Toán, tiếng Anh, tiếng Việt, Khoa học đến Tin học và Nghệ thuật"
+  },
+  "age_group": {
+    "kindergarten": "Mẫu giáo",
+    "elementary": "Tiểu học",
+    "upper_elementary": "Tiểu học nâng cao"
+  },
+  "course": {
+    "english_sports_title": "Tiếng Anh qua Thể thao",
+    "english_sports_description": "Luyện tiếng Anh trực tiếp với gia sư 1 kèm 1 tại nhà thông qua các hoạt động thể thao",
+    "english_creativity_title": "Tiếng Anh qua Sáng tạo",
+    "english_creativity_description": "Luyện tiếng Anh trực tiếp với gia sư 1 kèm 1 tại nhà thông qua các hoạt động sáng tạo",
+    "learning_sessions": {
+      "title_8_sessions": "8 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "title_4_sessions": "4 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "title_12_sessions": "12 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "price_unit": "Buổi",
+      "duration": "Thời lượng"
+    }
+  }
+}

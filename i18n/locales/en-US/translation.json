@@ -1,0 +1,44 @@
+{
+  "language": "Language",
+  "home": {
+    "title": "Home",
+    "welcome": "Hello",
+    "FreeProgramText": "Free Program",
+    "Global_Eye_Level_Program": "Global Eye Level Program",
+    "International_English_and_critical_Math_program": "International English and critical Math program",
+    "Kindergarten": "Kindergarten",
+    "Elementary": "Elementary",
+    "Upper_Elementary": "Upper Elementary",
+    "Tudy_Education_Program": "Tudy Education Program",
+    "Free_talk_English_for_preschoolers_and_up": "Free-talk English for preschoolers and up",
+    "Primary_school_homework_assistance": "Primary school homework assistance",
+    "Free_talk": "Free-talk"
+  },
+  "program": {
+    "global_eye_level_title": "Global Eye Level Program",
+    "global_eye_level_subtitle": "International English and critical Math program",
+    "tudy_education_title": "Tudy Education Program",
+    "tudy_education_subtitle": "Free talk English for preschoolers and up",
+    "homework_assistance_title": "Tudy Education Program",
+    "homework_assistance_subtitle": "Primary school homework assistance",
+    "homework_assistance_description": "From Maths, English, Vietnamese, Science to Informatics and Fine Arts"
+  },
+  "age_group": {
+    "kindergarten": "Kindergarten",
+    "elementary": "Elementary",
+    "upper_elementary": "Upper Elementary"
+  },
+  "course": {
+    "english_sports_title": "English through Sports",
+    "english_sports_description": "Practice English directly with 1-on-1 tutoring at home through sport activities",
+    "english_creativity_title": "English through Creativity",
+    "english_creativity_description": "Practice English directly with 1-on-1 tutoring at home through creative activities",
+    "learning_sessions": {
+      "title_8_sessions": "8 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "title_4_sessions": "4 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "title_12_sessions": "12 buổi học tiếng Anh với bộ dụng cụ Tudy Fun",
+      "price_unit": "session",
+      "duration": "Thời lượng"
+    }
+  }
+}
