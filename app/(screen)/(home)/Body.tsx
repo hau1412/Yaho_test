@@ -1,6 +1,5 @@
 // Body.js
 import React from "react";
-import { HStack } from "@/components/ui/hstack";
 import { VStack } from "@/components/ui/vstack";
 import KidsList from "./body/KidsList";
 import Voucher from "./body/Voucher";

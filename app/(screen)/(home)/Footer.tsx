@@ -2,7 +2,6 @@ import React from "react";
 import { Image, FlatList, ListRenderItem } from "react-native";
 import { Text } from "@/components/ui/text";
 import { VStack } from "@/components/ui/vstack";
-import { FooterData } from "@/data/data";
 import { footer } from "@/data";
 
 interface FooterItem {
