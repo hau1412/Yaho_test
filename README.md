@@ -10,3 +10,11 @@
    ```bash
     npx expo start
    ```
+
+3. Changing the Language Configuration
+
+```
+Open i18n/index.ts.
+Locate the fallbackLng option.
+Update "en-US" to your desired language code.
+```
